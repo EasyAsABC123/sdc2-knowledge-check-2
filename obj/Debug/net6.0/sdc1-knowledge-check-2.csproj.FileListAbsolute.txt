@@ -1,0 +1,15 @@
+/Users/jschuhmann/github/sdc1-knowledge-check-2/bin/Debug/net6.0/sdc1-knowledge-check-2
+/Users/jschuhmann/github/sdc1-knowledge-check-2/bin/Debug/net6.0/sdc1-knowledge-check-2.deps.json
+/Users/jschuhmann/github/sdc1-knowledge-check-2/bin/Debug/net6.0/sdc1-knowledge-check-2.runtimeconfig.json
+/Users/jschuhmann/github/sdc1-knowledge-check-2/bin/Debug/net6.0/sdc1-knowledge-check-2.dll
+/Users/jschuhmann/github/sdc1-knowledge-check-2/bin/Debug/net6.0/sdc1-knowledge-check-2.pdb
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.csproj.AssemblyReference.cache
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.AssemblyInfoInputs.cache
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.AssemblyInfo.cs
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.csproj.CoreCompileInputs.cache
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.dll
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/refint/sdc1-knowledge-check-2.dll
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.pdb
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/sdc1-knowledge-check-2.genruntimeconfig.cache
+/Users/jschuhmann/github/sdc1-knowledge-check-2/obj/Debug/net6.0/ref/sdc1-knowledge-check-2.dll
